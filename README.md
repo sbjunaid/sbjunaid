@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAFcWaznBBU/dwzs-DReVcXpbLqi7Q-OgQ/view?utm_content=DAFcWaznBBU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![logo](https://github.com/sbjunaid/Mr_J/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sayed Junaid</h1>
 <h3 align="center">A passionate computer science enthusiast from India.</h3>
 
