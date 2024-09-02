@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **python, DSA, algorithms...**
 
-- 📫 How to reach me **sbjunaid14@gmail.com**
+- 📫 How to reach me [Mail](mailto:sbjunaid14@gmail.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sayed-bakhtiar-junaid-10a18320a/](https://www.linkedin.com/in/sayed-bakhtiar-junaid-10a18320a/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/sayed-bakhtiar-junaid-10a18320a/)
 
 - ⚡ Fun fact **I think I am a fast learner...**
 
