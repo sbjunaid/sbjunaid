@@ -4,15 +4,15 @@
 
 - 🌱 I’m currently involved in doing programming. **Unsupervised machine learning algorithms**
 
-- 👨‍💻 All of my projects are available at [github.com/sbjunaid](github.com/sbjunaid)
+- 👨‍💻 All of my projects are available at [github.com/sbjunaid](github.com/sbjunaid).
 
-- 💬 Ask me about **python, DSA, algorithms...**
+- 💬 Ask me about **python, DSA, algorithms...**.
 
-- 📫 How to reach me [Mail](mailto:sbjunaid14@gmail.com)
+- 📫 How to reach me [Mail](mailto:sbjunaid14@gmail.com).
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/sayed-bakhtiar-junaid-10a18320a/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/sayed-bakhtiar-junaid-10a18320a/).
 
-- ⚡ Fun fact **I think I am a fast learner...**
+- ⚡ Fun fact **I think I am a fast learner...**.
 
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
